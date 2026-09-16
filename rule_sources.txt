@@ -1,1 +1,1 @@
-ruleset=🚀 国外流量,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Pinterest.yaml
+https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
