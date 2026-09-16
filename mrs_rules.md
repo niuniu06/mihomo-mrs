@@ -1,9 +1,9 @@
 # MRS Ruleset Links (Always Latest)
 
-Generated at: 2026-09-13 04:32:06+00:00
+Generated at: 2026-09-16 16:12:36+00:00
 
 ```yaml
-- RULE-SET,Pinterest_domain,🚀 国外流量
+- RULE-SET,adblockdns_domain,adblockdns
 - RULE-SET,Custom_Proxy_domain,🚀 国外流量
 - RULE-SET,Custom_Proxy_ipcidr,🚀 国外流量
 - RULE-SET,GitHub_domain,👨‍💻 GitHub
