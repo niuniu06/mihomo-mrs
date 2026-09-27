@@ -1,6 +1,6 @@
 # MRS Ruleset Links (Always Latest)
 
-Generated at: 2026-09-16 16:12:36+00:00
+Generated at: 2026-09-27 03:35:31+00:00
 
 ```yaml
 - RULE-SET,adblockdns_domain,adblockdns
